@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Build output directories (adjust based on your project structure)
+dist/
+build/
+lib/
+out/
+
+# TypeScript cache files
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Coverage directory for testing
+coverage/
